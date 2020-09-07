@@ -17,10 +17,11 @@
 # ##### END GPL LICENSE BLOCK #####
 # <pep8 compliant>
 
+# base on: https://blender.stackexchange.com/a/31825/20208
 
 bl_info = {
     "name": "Batch Import Wavefront (.obj)",
-    "author": "p2or",
+    "author": "p2or, Thomas Trocha(dertom)",
     "version": (0, 1, 0),
     "blender": (2, 80, 0),
     "location": "File > Import-Export",
